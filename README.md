@@ -27,7 +27,7 @@ Create a new empty Space and exchange the preview token with your own in ```page
 ```js
 // in pages/_app.js
 storyblokInit({
-  accessToken: "your-preview-token",
+  accessToken: "4uhFNGCxmP7hQrcc2xhmRAtt",
   use: [apiPlugin],
   components,
 });
